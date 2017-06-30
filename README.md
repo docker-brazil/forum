@@ -101,3 +101,5 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
 <p align="center">
   <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
 </p>
+
+A ideia desse forum no GitHub foi baseada no [Forum FrontEnd BR[(https://github.com/frontendbr/forum). Apenas modificamos um pouco este README.md
